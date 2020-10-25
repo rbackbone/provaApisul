@@ -1,0 +1,10 @@
+C:\NovoG\Dev\source\provaApisul\provaApisul\bin\Debug\provaApisul.exe.config
+C:\NovoG\Dev\source\provaApisul\provaApisul\bin\Debug\provaApisul.exe
+C:\NovoG\Dev\source\provaApisul\provaApisul\bin\Debug\provaApisul.pdb
+C:\NovoG\Dev\source\provaApisul\provaApisul\bin\Debug\Newtonsoft.Json.dll
+C:\NovoG\Dev\source\provaApisul\provaApisul\bin\Debug\Newtonsoft.Json.xml
+C:\NovoG\Dev\source\provaApisul\provaApisul\obj\Debug\provaApisul.csprojAssemblyReference.cache
+C:\NovoG\Dev\source\provaApisul\provaApisul\obj\Debug\provaApisul.csproj.CoreCompileInputs.cache
+C:\NovoG\Dev\source\provaApisul\provaApisul\obj\Debug\provaApisul.csproj.CopyComplete
+C:\NovoG\Dev\source\provaApisul\provaApisul\obj\Debug\provaApisul.exe
+C:\NovoG\Dev\source\provaApisul\provaApisul\obj\Debug\provaApisul.pdb
